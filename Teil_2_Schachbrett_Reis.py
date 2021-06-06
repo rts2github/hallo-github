@@ -8,5 +8,6 @@ for feld in range(64):
 
 gewicht = summe *0.02 /1000/1000
 print()
-print("Wenn ein Reiskorn 0,02g wiegr, wiegen die gesamten" \
+print("Änderung_01 Wenn ein Reiskorn 0,02g wiegr, wiegen die gesamten" \
       "Reiskörner {:,.0f} Tonnen".format(gewicht))
+
